@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with this project
 
 This project consists two folder 
 * server (for server)
